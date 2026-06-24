@@ -1,4 +1,4 @@
-# Your Blog!
+# Your Blog! by Bagrudeen Ali AHamed -- NAAN MUDHALVAN (Content Creator Blog Manager)
 
 A simple blog manager I built with React for my Naan Mudhalvan internship project
 (Project 9 - Content Creator Blog Manager). It lets a writer create posts, save them
